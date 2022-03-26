@@ -1,2 +1,2 @@
 # utilities
-Utils packages for Eodomius project
+Utils packages (in JavaScript) for Eodomius project
