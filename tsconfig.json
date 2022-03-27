@@ -1,0 +1,18 @@
+{
+  "version": "2.4.2",
+  "compilerOptions": {
+    "lib": ["ES2021"],
+    "target": "ES2022",
+    "module": "CommonJS",
+    "noEmitOnError": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+
+    "removeComments": false,
+    "noImplicitAny": true
+  },
+  "exclude": ["node_modules"]
+}
