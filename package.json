@@ -1,0 +1,37 @@
+{
+  "name": "utilities",
+  "version": "0.0.0",
+  "description": "Utilities packages for Eodomius project",
+  "main": "none",
+  "author": "Veauville Raphael <veauville.raphael@gmail.com>",
+  "license": "Apache-2.0 License",
+  "private": true,
+  "contributors": [
+    "Veauville Raphael <veauville.raphael@gmail.com>"
+  ],
+  "keywords": [
+    "instant-chat",
+    "utilities",
+    "utils",
+    "eodomius",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eodomius/utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eodomius/utilities/issues"
+  },
+  "homepage": "https://github.com/Eodomius",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
