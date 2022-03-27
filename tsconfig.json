@@ -1,8 +1,8 @@
 {
   "version": "2.4.2",
   "compilerOptions": {
-    "lib": ["ES2021"],
-    "target": "ES2022",
+    "lib": ["ESNext"],
+    "target": "ESNext",
     "module": "CommonJS",
     "noEmitOnError": true,
     "strict": true,
