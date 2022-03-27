@@ -5,13 +5,13 @@ Utils packages for Eodomius project
 ## Installation
 
 ```bash
-yarn add Eodomius/utilities/cast@latest
+yarn add @eodomius/cast
 ```
 
 ## Usage
 
 ```typescript
-import { cast } from "Eodomius/utilities/cast";
+import { cast } from "@eodomius/cast";
 
 const casted = cast<number>(1);
 ```
