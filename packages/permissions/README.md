@@ -46,7 +46,7 @@ Create a new Permissions with all available permissions as a parameter (an array
 
 | PARAMETER        | TYPE                | OPTIONAL | DEFAULT | DESCRIPTION               |
 | ---------------- | ------------------- | -------- | ------- | ------------------------- |
-| permissions      | Array\<string>      | ✖️       | none    | All available permissions |
+| permissions      | Array\<string>      |          | none    | All available permissions |
 | user permissions | int, bigint, string | ✓        | none    | The user permissions      |
 
 Note : The order of the permissions is verry important, after choosing it you can add new permissions but at the end of array.
