@@ -1,4 +1,4 @@
-# Eodomius utilities : cast
+# Eodomius utilities : wait
 
 Utils packages for Eodomius project
 
