@@ -2,6 +2,34 @@
 
 This module makes it easier to replace words in a string.
 
+## Installation
+
+**NPM**:
+
+```bash
+npm i @eodomius/data-replacer
+```
+
+**Yarn**:
+
+```bash
+yarn add @eodomius/data-replacer
+```
+
+## Importation
+
+**CommonJS**:
+
+```js
+const { DataReplacer } = require("@eodomius/data-replacer");
+```
+
+**EcmaScript modules**:
+
+```js
+import { DataReplacer } from "@eodomius/data-replacer";
+```
+
 ## Usage
 
 - Create a new instance of DataReplacer class  

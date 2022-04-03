@@ -2,9 +2,33 @@
 
 This module is a manager for permissions. With this module you can defined and host the permissions of user as a integer which makes it possible to limit the use of memory.
 
-## How it work ?
+## Installation
 
-It work with a bitwise operations using the bigint library.
+**NPM**:
+
+```bash
+npm i @eodomius/permissions
+```
+
+**Yarn**:
+
+```bash
+yarn add @eodomius/permissions
+```
+
+## Importation
+
+**CommonJS**:
+
+```js
+const { Permissions } = require("@eodomius/wait");
+```
+
+**EcmaScript modules**:
+
+```js
+import { Permissions } from "@eodomius/wait";
+```
 
 ## Getting started
 
@@ -12,35 +36,7 @@ Prerequisites
 
 Node.js 12.0.0 or newer is required.
 
-### Instalation
-
-With npm :
-
-```sh-session
-npm install permissions.js
-```
-
-With yarn :
-
-```sh-session
-yarn add permissions.js
-```
-
 ## Usage
-
-Import the module from node_modules :
-
-With CommonJS syntax :
-
-```js
-const { Permissions } = require("permissions.js");
-```
-
-With module syntax :
-
-```js
-import { Permissions } = from 'permissions.js';
-```
 
 Create a new Permissions with all available permissions as a parameter (an array).
 

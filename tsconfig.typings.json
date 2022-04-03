@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2021"],
+    "target": "ESNext",
+    "allowJs": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "typings",
+    "skipLibCheck": true,
+    "module": "CommonJS"
+  }
+}
