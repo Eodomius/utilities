@@ -1,0 +1,36 @@
+{
+  "name": "@eodomius/cast",
+  "version": "1.0.0",
+  "description": "Cast a value to a type",
+  "main": "none",
+  "author": "Veauville Raphael <veauville.raphael@gmail.com>",
+  "license": "Apache-2.0 License",
+  "private": false,
+  "contributors": [
+    "Veauville Raphael <veauville.raphael@gmail.com>"
+  ],
+  "keywords": [
+    "utilities",
+    "utils",
+    "node",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eodomius/utilities.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eodomius/utilities/issues"
+  },
+  "homepage": "https://github.com/Eodomius",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.1.1",
+  "devDependencies": {
+    "@types/node": "^17.0.23"
+  }
+}
