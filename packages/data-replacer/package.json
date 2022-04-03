@@ -1,7 +1,7 @@
 {
-  "name": "@eodomius/colors",
+  "name": "@eodomius/data-replacer",
   "version": "1.0.0",
-  "description": "Colors management",
+  "description": "Replace data in string",
   "main": "dist/index.js",
   "types": "./typings/index.d.ts",
   "author": "Veauville Raphael <veauville.raphael@gmail.com>",
