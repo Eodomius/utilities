@@ -5,8 +5,9 @@
     "allowJs": true,
     "declaration": true,
     "emitDeclarationOnly": true,
-    "outDir": "typings",
     "skipLibCheck": true,
-    "module": "CommonJS"
+    "module": "CommonJS",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   }
 }

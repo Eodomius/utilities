@@ -1,4 +1,7 @@
 {
   "extends": "../../tsconfig.typings.json",
-  "include": ["src/**/*"]
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "outDir": "typings"
+  }
 }
