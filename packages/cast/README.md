@@ -21,13 +21,13 @@ yarn add @eodomius/cast
 **CommonJS**:
 
 ```js
-const { cast } = require("@eodomius/colors");
+const { cast } = require("@eodomius/cast");
 ```
 
 **EcmaScript modules**:
 
 ```js
-import { cast } from "@eodomius/colors";
+import { cast } from "@eodomius/cast";
 ```
 
 ## Usage
