@@ -21,13 +21,13 @@ yarn add @eodomius/permissions
 **CommonJS**:
 
 ```js
-const { Permissions } = require("@eodomius/wait");
+const { Permissions } = require("@eodomius/permissions");
 ```
 
 **EcmaScript modules**:
 
 ```js
-import { Permissions } from "@eodomius/wait";
+import { Permissions } from "@eodomius/permissions";
 ```
 
 ## Getting started
