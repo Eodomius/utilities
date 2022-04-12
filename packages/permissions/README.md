@@ -231,7 +231,7 @@ console.log(userPermissions.removePermission("ADMINISTRATOR"));
 ## Example
 
 ```js
-const { Permissions } = require("permissions");
+const { Permissions } = require("@eodomius/permissions");
 const permissionsList = [
   "ADMINISTRATOR",
   "VIEW_ALL_MEMBERS",
