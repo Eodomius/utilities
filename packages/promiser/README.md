@@ -36,6 +36,7 @@ import { promiser } from "@eodomius/promiser";
 import { promiser } from "@eodomius/promiser";
 
 const [result, error] = await promiser(Promise.resolve(1));
+
 if (error) {
   console.error(error);
   return;
