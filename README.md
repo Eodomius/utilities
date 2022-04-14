@@ -1,3 +1,3 @@
 # Eodomius utilities
 
-Utils packages for Eodomius project
+Utilitaire packages for Eodomius (and other javascript) projects. 
