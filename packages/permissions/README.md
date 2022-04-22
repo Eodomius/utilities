@@ -21,13 +21,13 @@ yarn add @eodomius/permissions
 **CommonJS**:
 
 ```js
-const { Permissions } = require("@eodomius/wait");
+const { Permissions } = require("@eodomius/permissions");
 ```
 
 **EcmaScript modules**:
 
 ```js
-import { Permissions } from "@eodomius/wait";
+import { Permissions } from "@eodomius/permissions";
 ```
 
 ## Getting started
@@ -231,7 +231,7 @@ console.log(userPermissions.removePermission("ADMINISTRATOR"));
 ## Example
 
 ```js
-const { Permissions } = require("permissions");
+const { Permissions } = require("@eodomius/permissions");
 const permissionsList = [
   "ADMINISTRATOR",
   "VIEW_ALL_MEMBERS",

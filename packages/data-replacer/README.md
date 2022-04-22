@@ -67,7 +67,7 @@ console.log(result);
 ## Example
 
 ```js
-const { DataReplacer } = require("data-replacer");
+const { DataReplacer } = require("@eodomius/data-replacer");
 
 const Replacer = new DataReplacer({
   caseInsensitive: true,
