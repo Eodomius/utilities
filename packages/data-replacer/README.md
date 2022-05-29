@@ -1,4 +1,4 @@
-# Eodomius utilities : Data replacer
+# Eodomius utilities : Data-replacer
 
 This module makes it easier to replace words in a string.
 
